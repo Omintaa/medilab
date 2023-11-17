@@ -261,7 +261,7 @@ img{
 
 .statistics{
     background-color:rgba(205, 205, 231, 0.608);
-    padding:60px;
+    padding:60px 60px 60px 35px;
     display:flex;
     justify-content: space-evenly;
 }
@@ -329,6 +329,7 @@ margin-bottom:0;
     row-gap: 30px;
     margin-top:50px;
 }
+
 .serviceinfo{
     padding:50px;
     border: 1px solid rgba(25, 121, 204, 0.423);
@@ -367,7 +368,316 @@ margin-bottom:0;
     text-align:center;
     width:200px;
 }
+
+
+
+
+
+/* heart */
+
+.heartinfo{
+    padding:50px;
+    border: 1px solid rgba(25, 121, 204, 0.423);
+    width:170px;
+    height:220px;
+    align-items: center;
+    display:flex;
+    flex-direction: column;
+
+}
+
+
+
+.heartinfo i.fa{
+    color:white;
+    background-color:rgb(25, 121, 204) ;
+    height:70px;
+    width:70px;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    font-size:35px;
+    box-shadow:-9px -9px 4px rgba(145, 203, 247, 0.656)
+}
+
+.hearticoninfo{
+    text-align:center;
+
+}
+.hearth3{
+    font-size:20px;
+    color:rgb(17, 83, 141);
+}
+.heartp{
+    text-align:center;
+    width:200px;
+}
+
+
+
+/* wheelchair */
+.chairinfo{
+    padding:50px;
+    border: 1px solid rgba(25, 121, 204, 0.423);
+    width:170px;
+    height:220px;
+    align-items: center;
+    display:flex;
+    flex-direction: column;
+
+}
+
+
+
+.chairinfo i.fa{
+    color:white;
+    background-color:rgb(25, 121, 204) ;
+    height:70px;
+    width:70px;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    font-size:35px;
+    box-shadow:-9px -9px 4px rgba(145, 203, 247, 0.656)
+}
+
+.chairiconinfo{
+    text-align:center;
+
+}
+.chairh3{
+    font-size:20px;
+    color:rgb(17, 83, 141);
+}
+.chairp{
+    text-align:center;
+    width:200px;
+}
+
+/* blind */
+.blindinfo{
+    padding:50px;
+    border: 1px solid rgba(25, 121, 204, 0.423);
+    width:170px;
+    height:220px;
+    align-items: center;
+    display:flex;
+    flex-direction: column;
+
+}
+
+
+
+.blindinfo i.fa{
+    color:white;
+    background-color:rgb(25, 121, 204) ;
+    height:70px;
+    width:70px;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    font-size:35px;
+    box-shadow:-9px -9px 4px rgba(145, 203, 247, 0.656)
+}
+
+.blindiconinfo{
+    text-align:center;
+
+}
+.blindh3{
+    font-size:20px;
+    color:rgb(17, 83, 141);
+}
+.blindp{
+    text-align:center;
+    width:200px;
+}
+
+
+/* deaf */
+
+.deafinfo{
+    padding:50px;
+    border: 1px solid rgba(25, 121, 204, 0.423);
+    width:170px;
+    height:220px;
+    align-items: center;
+    display:flex;
+    flex-direction: column;
+
+}
+
+.deafinfo i.fa{
+    color:white;
+    background-color:rgb(25, 121, 204) ;
+    height:70px;
+    width:70px;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    font-size:35px;
+    box-shadow:-9px -9px 4px rgba(145, 203, 247, 0.656)
+}
+
+.deaficoninfo{
+    text-align:center;
+
+}
+.deafh3{
+    font-size:20px;
+    color:rgb(17, 83, 141);
+}
+.deafp{
+    text-align:center;
+    width:200px;
+}
+
+
+/* eye */
+
+.eyeinfo{
+    padding:50px;
+    border: 1px solid rgba(25, 121, 204, 0.423);
+    width:170px;
+    height:220px;
+    align-items: center;
+    display:flex;
+    flex-direction: column;
+
+}
+
+
+
+.eyeinfo i.fa{
+    color:white;
+    background-color:rgb(25, 121, 204) ;
+    height:70px;
+    width:70px;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    font-size:35px;
+    box-shadow:-9px -9px 4px rgba(145, 203, 247, 0.656)
+}
+
+.eyeiconinfo{
+    text-align:center;
+
+}
+.eyeh3{
+    font-size:20px;
+    color:rgb(17, 83, 141);
+}
+.eyep{
+    text-align:center;
+    width:200px;
+}
+
+/* plus */
+
+.plusinfo{
+    padding:50px;
+    border: 1px solid rgba(25, 121, 204, 0.423);
+    width:170px;
+    height:220px;
+    align-items: center;
+    display:flex;
+    flex-direction: column;
+
+}
+
+
+
+.plusinfo i.fa{
+    color:white;
+    background-color:rgb(25, 121, 204) ;
+    height:70px;
+    width:70px;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    font-size:35px;
+    box-shadow:-9px -9px 4px rgba(145, 203, 247, 0.656)
+}
+
+.plusiconinfo{
+    text-align:center;
+
+}
+.plush3{
+    font-size:20px;
+    color:rgb(17, 83, 141);
+}
+.plusp{
+    text-align:center;
+    width:200px;
+}
+
+
 /* .serviceinfo:hover, .iconinfo h3:hover{
     background-color:rgb(25, 121, 204);
     color:white;
 } */
+
+
+#appointment{
+    background-color:rgba(205, 205, 231, 0.608);
+    padding:20px 80px 20px 80px;
+}
+
+.appointment h2{
+    color: rgb(17, 83, 141);
+    font-size:30px;
+    font-weight:bolder;
+    text-align:center;
+
+}
+.appointment p{
+    text-align:justify;
+}
+.appointmentform{
+    margin-top:40px;
+    
+}
+.appointment .appointmentgridcontainer{
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+  grid-gap:30px;
+  padding-bottom:30px;
+}
+.appointmentgridcontainer .griditem input{
+    width:300px;
+    height:40px;
+    text-indent:10px;
+}
+.appointmentform #textbox{
+    width:972px;
+    height:120px;
+    text-indent: 10px;
+    margin-bottom:20px;
+}
+.appointmentform .defaultbtn{
+    background-color:rgb(25, 121, 204); 
+    color:white;
+    width:200px;
+    height:40px;
+    border-radius: 20px;
+    border:none;
+    margin-left:400px;
+    font-size:15px;  
+    margin-bottom: 20px;
+     /* justify-content: center;
+   align-self: center;
+   display: flex; */
+
+}
+.appointmentform .defaultbtn:hover{
+    background-color:rgb(21, 107, 182); 
+
+}
